@@ -1,9 +1,4 @@
 package common
-
-
-
-
-
 /*
 Diverse Movies
 # On boarding recommendations
@@ -70,6 +65,4 @@ object DiverseMoviesSelection {
   )
 
   diverseMovies(views, 2).foreach(println)
-
-
 }
